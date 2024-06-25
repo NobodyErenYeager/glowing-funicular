@@ -1,0 +1,289 @@
+01. Introduction
+	(1280, 720) | 01. Welcome to Class.mp4
+	(1280, 720) | 02. Getting Started.mp4
+02. Preparing for Class
+	(1280, 720) | 01. Essential Preference Changes.mp4
+	(1280, 720) | 02. Recommended Preference Changes.mp4
+	(1280, 720) | 03. Custom Matcaps.mp4
+	(1280, 720) | 04. Full Guide to the Guide Mesh - Essentials.mp4
+	(1280, 720) | 05. Full Guide to the Guide Mesh - Tips and Tricks.mp4
+	(1280, 720) | 06. Full Guide to the Guide Mesh - What's New.mp4
+03. Modeling - Exterior - Guide Meshes
+	(1280, 720) | 01. Setting Up the Blueprints.mp4
+	(1280, 720) | 02. Hood Area Contours.mp4
+	(1280, 720) | 03. Wheel Well Contours.mp4
+	(1280, 720) | 04. Front Bumper Contours.mp4
+	(1280, 720) | 05. Grill Contours.mp4
+	(1280, 720) | 06. Front of the Front Fender.mp4
+	(1280, 720) | 07. Front Bumper.mp4
+	(1280, 720) | 08. Hood Area.mp4
+	(1280, 720) | 09. Back of the Front Fender.mp4
+	(1280, 720) | 10. Control Loops - Hood.mp4
+	(1280, 720) | 11. Front Bumper Vent.mp4
+	(1280, 720) | 12. Side Rail.mp4
+	(1280, 720) | 13. Door Area.mp4
+	(1280, 720) | 14. Trunk Area Contours.mp4
+	(1280, 720) | 15. Trunk Area.mp4
+	(1280, 720) | 16. Back Fender.mp4
+	(1280, 720) | 17. Control Loops - Door Area.mp4
+	(1280, 720) | 18. Back Bumper.mp4
+	(1280, 720) | 19. Back Vents.mp4
+	(1280, 720) | 20. License Plate Area.mp4
+	(1280, 720) | 21. Roof.mp4
+	(1280, 720) | 22. Windows.mp4
+	(1280, 720) | 23. Final Touches.mp4
+	(1280, 720) | 24. Splitting it Apart.mp4
+04. Modeling - Exterior - Final Panels
+	(1280, 720) | 01. Hood.mp4
+	(1280, 720) | 02. Front End and Fenders.mp4
+	(1280, 720) | 03. Front End Vents.mp4
+	(1280, 720) | 04. Headlight Panels.mp4
+	(1280, 720) | 05. Front Bumper.mp4
+	(1280, 720) | 06. Side Slope Panels.mp4
+	(1280, 720) | 07. Side Bottom Rails.mp4
+	(1280, 720) | 08. Side Doors.mp4
+	(1280, 720) | 09. Door Handles.mp4
+	(1280, 720) | 10. Back Fenders.mp4
+	(1280, 720) | 11. Back End.mp4
+	(1280, 720) | 12. Back Bumper.mp4
+	(1280, 720) | 13. Back Bumper Cutouts.mp4
+	(1280, 720) | 14. Back Blinker Panel.mp4
+	(1280, 720) | 15. Trunk.mp4
+	(1280, 720) | 16. Roof.mp4
+	(1280, 720) | 17. Door Tops.mp4
+	(1280, 720) | 18. Adding Thickness.mp4
+05. Modeling - Exterior - Windows
+	(1280, 720) | 01. Windshield.mp4
+	(1280, 720) | 02. Door Glass.mp4
+	(1280, 720) | 03. Quarter Glass.mp4
+	(1280, 720) | 04. Top Glass.mp4
+06. Modeling - Exterior - Plastics
+	(1280, 720) | 01. Body Kit - Bottom - Front.mp4
+	(1280, 720) | 02. Body Kit - Bottom - Back.mp4
+	(1280, 720) | 03. Body Kit - Bottom - Final Touches.mp4
+	(1280, 720) | 04. Body Kit - Floating Panel.mp4
+	(1280, 720) | 05. Body Kit - Ribs.mp4
+	(1280, 720) | 06. Wheel Wells.mp4
+	(1280, 720) | 07. Front Side Vent.mp4
+	(1280, 720) | 08. Back Side Vent.mp4
+	(1280, 720) | 09. Front Bumper Vent.mp4
+	(1280, 720) | 10. Hood Vent.mp4
+	(1280, 720) | 11. Trunk Vent.mp4
+	(1280, 720) | 12. Fuel Inset.mp4
+	(1280, 720) | 13. Roof Trim.mp4
+	(1280, 720) | 14. Windshield Gutter.mp4
+07. Modeling - Exterior - Side View Mirror
+	(1280, 720) | 01. Housing.mp4
+	(1280, 720) | 02. Insert.mp4
+	(1280, 720) | 03. Mirror.mp4
+	(1280, 720) | 04. Arm.mp4
+08. Modeling - Exterior - Front Grill
+	(1280, 720) | 01. Border.mp4
+	(1280, 720) | 02. Grill.mp4
+	(1280, 720) | 03. Ring Housing.mp4
+	(1280, 720) | 04. Rings.mp4
+09. Modeling - Exterior - Back Grill
+	(1280, 720) | 01. Border.mp4
+	(1280, 720) | 02. Grill.mp4
+10. Modeling - Exterior - License Plate Area
+	(1280, 720) | 01. Plastic Trim.mp4
+	(1280, 720) | 02. Light Box.mp4
+	(1280, 720) | 03. License Plate.mp4
+11. Modeling - Exterior - Boosters
+	(1280, 720) | 01. Housing.mp4
+	(1280, 720) | 02. Boosters.mp4
+12. Modeling - Exterior - Headlights
+	(1280, 720) | 01. Housing.mp4
+	(1280, 720) | 02. Buttons.mp4
+	(1280, 720) | 03. Main Light.mp4
+	(1280, 720) | 04. Loop Lights.mp4
+	(1280, 720) | 05. Backplate.mp4
+	(1280, 720) | 06. Lens.mp4
+13. Modeling - Exterior - Tail Lights
+	(1280, 720) | 01. Housing.mp4
+	(1280, 720) | 02. Light.mp4
+	(1280, 720) | 03. Lens.mp4
+14. Modeling - Exterior - Blinkers
+	(1280, 720) | 01. Lens.mp4
+	(1280, 720) | 02. Housing.mp4
+	(1280, 720) | 03. Light.mp4
+15. Modeling - Exterior - Windshield Wipers
+	(1280, 720) | 01. Long Arm.mp4
+	(1280, 720) | 02. Short Arm.mp4
+	(1280, 720) | 03. Housing.mp4
+	(1280, 720) | 04. Blade.mp4
+	(1280, 720) | 05. Bolts.mp4
+16. Modeling - Exterior - Other Details
+	(1280, 720) | 01. Logo - H6.mp4
+	(1280, 720) | 02. Logo - Rings.mp4
+	(1280, 720) | 03. Logo - Julietta.mp4
+	(1280, 720) | 04. Fuel Area Insert.mp4
+	(1280, 720) | 05. Gas Cap.mp4
+	(1280, 720) | 06. Rubber Seals.mp4
+	(1280, 720) | 07. Hexagon Meshes.mp4
+	(1280, 720) | 08. Shadow Meshes.mp4
+17. Modeling - Exterior - Wheels
+	(1280, 720) | 01. Rims.mp4
+	(1280, 720) | 02. Center Cap.mp4
+	(1280, 720) | 03. Tires.mp4
+	(1280, 720) | 04. Tires - Final Touches.mp4
+	(1280, 720) | 05. Hub.mp4
+	(1280, 720) | 06. Nuts and Bolts.mp4
+	(1280, 720) | 07. Brake Disc.mp4
+	(1280, 720) | 08. Brake Caliper.mp4
+	(1280, 720) | 09. Brake Caliper Details.mp4
+	(1280, 720) | 10. Air Stem.mp4
+	(1280, 720) | 11. Vent Spews.mp4
+	(1280, 720) | 12. Shocks.mp4
+	(1280, 720) | 13. Basic Wheel Rig.mp4
+	(1280, 720) | 14. All Other Wheels.mp4
+	(1280, 720) | 15. Finishing the Rig.mp4
+	(1280, 720) | 16. Final Touches.mp4
+18. Modeling - Interior - Doors
+	(1280, 720) | 01. Door Shell - Part 1.mp4
+	(1280, 720) | 02. Door Shell - Part 2.mp4
+	(1280, 720) | 03. Side Panel.mp4
+	(1280, 720) | 04. Side Panel - Light Strip.mp4
+	(1280, 720) | 05. Speaker.mp4
+	(1280, 720) | 06. Latch.mp4
+	(1280, 720) | 07. Side Pocket.mp4
+	(1280, 720) | 08. Handle.mp4
+	(1280, 720) | 09. Final Touches.mp4
+19. Modeling - Interior - Full Shell
+	(1280, 720) | 01. Side Shell.mp4
+	(1280, 720) | 02. Front End Shell.mp4
+	(1280, 720) | 03. Dashboard Shell.mp4
+	(1280, 720) | 04. Middle Console Shell.mp4
+	(1280, 720) | 05. Dashboard Column.mp4
+	(1280, 720) | 06. Middle Console Column.mp4
+	(1280, 720) | 07. Engine Shell - Part 1.mp4
+	(1280, 720) | 08. Engine Shell - Part 2.mp4
+	(1280, 720) | 09. Engine Platform.mp4
+	(1280, 720) | 10. Roof Shell.mp4
+	(1280, 720) | 11. Front Roof Supports.mp4
+	(1280, 720) | 12. Back Roof Supports.mp4
+	(1280, 720) | 13. Final Touches.mp4
+20. Modeling - Interior - Dashboard
+	(1280, 720) | 01. Adding Extra Geometry.mp4
+	(1280, 720) | 02. Vent Cutouts.mp4
+	(1280, 720) | 03. Vent Border.mp4
+	(1280, 720) | 04. Vent Blades.mp4
+	(1280, 720) | 05. Vent Hex Meshes.mp4
+	(1280, 720) | 06. Gauge Cutout.mp4
+	(1280, 720) | 07. Gauge Border.mp4
+	(1280, 720) | 08. Gauge Housing.mp4
+	(1280, 720) | 09. Gauge Screen.mp4
+	(1280, 720) | 10. Gauge Glass.mp4
+	(1280, 720) | 11. Air Bag.mp4
+	(1280, 720) | 12. Glove Compartment.mp4
+	(1280, 720) | 13. Final Touches.mp4
+21. Modeling - Interior - Steering
+	(1280, 720) | 01. Steering Column.mp4
+	(1280, 720) | 02. Steering Column Cutout.mp4
+	(1280, 720) | 03. Steering Wheel Hub - Part 1.mp4
+	(1280, 720) | 04. Steering Wheel Hub - Part 2.mp4
+	(1280, 720) | 05. Airbag.mp4
+	(1280, 720) | 06. Steering Wheel Handle - Part 1.mp4
+	(1280, 720) | 07. Steering Wheel Handle - Part 2.mp4
+	(1280, 720) | 08. Steering Wheel Pads.mp4
+	(1280, 720) | 09. Steering Wheel Light Strip.mp4
+	(1280, 720) | 10. Buttons - Part 1.mp4
+	(1280, 720) | 11. Buttons - Part 2.mp4
+	(1280, 720) | 12. Paddles.mp4
+	(1280, 720) | 13. Final Touches.mp4
+22. Modeling - Interior - Middle Console
+	(1280, 720) | 01. Screen Cutout.mp4
+	(1280, 720) | 02. Screen Housing and Screen.mp4
+	(1280, 720) | 03. Screen Cover.mp4
+	(1280, 720) | 04. Dial Cutout.mp4
+	(1280, 720) | 05. Dial Housing.mp4
+	(1280, 720) | 06. Dial.mp4
+	(1280, 720) | 07. Middle Compartment Cutout.mp4
+	(1280, 720) | 08. Middle Compartment Panel.mp4
+23. Modeling - Interior - Chairs
+	(1280, 720) | 01. Basic Shape.mp4
+	(1280, 720) | 02. Main Shell.mp4
+	(1280, 720) | 03. Back Cushion.mp4
+	(1280, 720) | 04. Head Cushion.mp4
+	(1280, 720) | 05. Head Cushion Logo.mp4
+	(1280, 720) | 06. Bottom Cushions.mp4
+	(1280, 720) | 07. Base.mp4
+24. Modeling - Interior - Seatbelts
+	(1280, 720) | 01. Retractor.mp4
+	(1280, 720) | 02. Webbing.mp4
+	(1280, 720) | 03. Latch.mp4
+25. Modeling - Interior - Engine Cover
+	(1280, 720) | 01. Platform Cutout.mp4
+	(1280, 720) | 02. Main Shell.mp4
+	(1280, 720) | 03. Side Inserts.mp4
+	(1280, 720) | 04. Logos.mp4
+	(1280, 720) | 05. Middle Insert.mp4
+	(1280, 720) | 06. Light Strips.mp4
+	(1280, 720) | 07. Border.mp4
+	(1280, 720) | 08. Final Touches.mp4
+26. Modeling - Interior - Floor Mats
+	(1280, 720) | 01. Front Mats.mp4
+	(1280, 720) | 02. Front Mats - Logos.mp4
+	(1280, 720) | 03. Back Mat.mp4
+27. Modeling - Interior - Pedals
+	(1280, 720) | 01. Brake Pedal.mp4
+	(1280, 720) | 02. Gas Pedal.mp4
+	(1280, 720) | 03. Foot Rest.mp4
+28. Modeling - Interior - Other Details
+	(1280, 720) | 01. Seals - Roof.mp4
+	(1280, 720) | 02. Seals - Door.mp4
+	(1280, 720) | 03. Light Strips - Roof.mp4
+	(1280, 720) | 04. Light Strips - Lower Shell.mp4
+	(1280, 720) | 05. Light Strips - Upper Shell.mp4
+	(1280, 720) | 06. Windshield Border.mp4
+	(1280, 720) | 07. Quarter Window Border.mp4
+29. Modeling - Interior - Door Hinges
+	(1280, 720) | 01. Basic Door Rig.mp4
+	(1280, 720) | 02. Door Hinges.mp4
+	(1280, 720) | 03. Door Frame Slot.mp4
+	(1280, 720) | 04. Door Plate.mp4
+30. Rendering - Shaders - Setup and Basic Shaders
+	(1280, 720) | 01. Preview Lighting.mp4
+	(1280, 720) | 02. Basic Shaders Overview.mp4
+	(1280, 720) | 03. Applying Basic Shaders.mp4
+31. Rendering - Shaders - Complex Shaders
+	(1280, 720) | 01. Car Paint - Red.mp4
+	(1280, 720) | 02. Car Paint - Black.mp4
+	(1280, 720) | 03. Car Paint - Silver.mp4
+	(1280, 720) | 04. Car Paint - Blue.mp4
+	(1280, 720) | 05. Carbon Fiber.mp4
+	(1280, 720) | 06. Applying Carbon Fiber.mp4
+	(1280, 720) | 07. Brake Disc.mp4
+	(1280, 720) | 08. Tire UV Map.mp4
+	(1280, 720) | 09. Tire Shaders.mp4
+	(1280, 720) | 10. Leather - Black.mp4
+	(1280, 720) | 11. Leather - Black - Rough.mp4
+	(1280, 720) | 12. Leather - White.mp4
+	(1280, 720) | 13. Leather - White - Rough.mp4
+	(1280, 720) | 14. Floor.mp4
+	(1280, 720) | 15. Floor Mats.mp4
+	(1280, 720) | 16. Seatbelt.mp4
+	(1280, 720) | 17. Dial Buttons.mp4
+	(1280, 720) | 18. Steering Buttons.mp4
+	(1280, 720) | 19. Gauge Display.mp4
+	(1280, 720) | 20. Console Display.mp4
+	(1280, 720) | 21. Hex Mesh.mp4
+32. Rendering - Setup
+	(1280, 720) | 01. Render Settings.mp4
+	(1280, 720) | 02. Final Model Review.mp4
+	(1280, 720) | 03. Environment Overview.mp4
+	(1280, 720) | 04. Appending the Environments.mp4
+33. Rendering - Mountain View - Back
+	(1280, 720) | 01. Final Render.mp4
+	(1280, 720) | 02. Post Processing.mp4
+34. Rendering - Mountain View - Front
+	(1280, 720) | 01. Final Render.mp4
+	(1280, 720) | 02. Post Processing.mp4
+35. Rendering - Mountain View - Interior
+	(1280, 720) | 01. Final Render.mp4
+36. Rendering - Venice Sunset
+	(1280, 720) | 01. Final Render.mp4
+	(1280, 720) | 02. Post Processing.mp4
+37. Rendering - City Street
+	(1280, 720) | 01. Final Render.mp4
+	(1280, 720) | 02. Post Processing.mp4
